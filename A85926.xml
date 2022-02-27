@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new-years result, in favour of the poore; as also in the behalf of all tradesmen, necessitous persons, and such others, as desire the encrease of traffique; who minde the exterpation of intollerable usury, and the anihilating of the pernitious costoms of forfeitures. Together with that which may be justly expected from all men of estates on the like case, who cannot be ignorant that such as endeavor not to promote the publique good, are no better than brutes with hoofs and hornes. All which is discust by way of conference between Mean-well and Experience. / By Sr. Balthazar Gerbier, Knight.</title>
+            <author>Gerbier, Balthazar, Sir, 1562?-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85926</idno>
+            <idno type="STC">Wing G566</idno>
+            <idno type="STC">Thomason E651_14</idno>
+            <idno type="STC">ESTC R205857</idno>
+            <idno type="EEBO-CITATION">99865104</idno>
+            <idno type="PROQUEST">99865104</idno>
+            <idno type="VID">117341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117341)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E651[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new-years result, in favour of the poore; as also in the behalf of all tradesmen, necessitous persons, and such others, as desire the encrease of traffique; who minde the exterpation of intollerable usury, and the anihilating of the pernitious costoms of forfeitures. Together with that which may be justly expected from all men of estates on the like case, who cannot be ignorant that such as endeavor not to promote the publique good, are no better than brutes with hoofs and hornes. All which is discust by way of conference between Mean-well and Experience. / By Sr. Balthazar Gerbier, Knight.</title>
+                  <author>Gerbier, Balthazar, Sir, 1562?-1667.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 1st "; The "2" in imprint date crossed out and replaced with "1651".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Usury --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>England --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117341:1" rendition="simple:additions"/>
+            <p>A NEW-YEARS RESVLT, In favour of the POORE; As alſo in the behalf of all Tradeſ<g ref="char:EOLhyphen"/>men, Neceſsitous Perſons, and ſuch others, as deſire the encreaſe of Traffique; who minde the Exterpation of Intollerable Uſury, and the anihilating of the per<g ref="char:EOLhyphen"/>nitious coſtoms of Forfeitures.</p>
+            <p>Together with that which may be juſtly expected from all men of Eſtates on the like Caſe, who cannot be ignorant that ſuch as endeavor not to promote the Publique good, are no better then Brutes with Hoofs and Hornes.</p>
+            <p>
+               <hi>All which is diſcuſt by way of Conference between</hi> Mean-well <hi>and</hi> Experience.</p>
+            <p>BY <hi>Sr.</hi> Balthazar Gerbier, <hi>Knight.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:117341:2"/>
+            <pb n="1" facs="tcp:117341:2"/>
+            <head>
+               <hi>A New-Years Reſult,</hi> In favour of the POORE and other Neceſsitous Perſons, &amp;c.</head>
+            <head>By way of Conference, between <hi>Mean-well</hi> and <hi>Ex<g ref="char:EOLhyphen"/>perience.</hi>
+            </head>
+            <sp>
+               <speaker>Mean-well,</speaker>
+               <p>WHen our Saviour told his Diſciples, That they ſhould alwayes have the poor amongſt them, they were like<g ref="char:EOLhyphen"/>wiſe recommended to be provided for; and therefore the admini<g ref="char:EOLhyphen"/>ſtring unto them of a timely, and a poſſible relief, is no leſſe then a duty, That ſuch perſons who have tongues ſhould not only ſpeak comfortable words un<g ref="char:EOLhyphen"/>to them; but alſo that ſuch as have wealth, ſhould be aſſiſting of them; and finally, that ſuch as have ex<g ref="char:EOLhyphen"/>perience ſhould not onely think upon expedients in behalf of the Poor, reflecting on the ſaying, <hi>Foenera<g ref="char:EOLhyphen"/>tur Domino qui miſeretur pauperis:</hi> but alſo endea<g ref="char:EOLhyphen"/>vour to bring ſuch reſults to a head, as may be effe<g ref="char:EOLhyphen"/>ctuall, and beneficiall unto them; when as alas! the poverty of many is ſo exceſſive, as that it works the ſame effects on them, which ſome diſeaſes do on per<g ref="char:EOLhyphen"/>ſons, who at laſt cannot ſo much as tell what they are ſick off? nor, can they call for a Phyſitian: and as this exceſſe of want doth at laſt ſtrike up into their brains, ſo it works on their ſenſes, making them
+<pb n="2" facs="tcp:117341:3"/>
+rave and exclaime; yea, ſometimes accuſe every thing they ſee, taſte, feel and the like; nay, they even miſconſture every word which is ſpoken unto them by their beſt friends.</p>
+               <p>Now when as diſtractions happen in a Country, and amidſt a Nation; the Poor and ſuch like necesſitous perſons are uſually the firſt who ſuffer by the ſame; And therefore all well meaning perſons, are ſo much the more bound to apply themſelves, to think upon ſuch favourable expedients, as might be effectuall to<g ref="char:EOLhyphen"/>wards the relieving of the poore and needy. To ſpeak for them, to conſult with what experience hath laid up in ſtore for them; and finally, to repreſent unto all thoſe who may be in a capacity to reduce the ſame, into a reſult: To the end, that the ſame being tendred unto Authority as then (according to all probability) it may be crowned with deſired effects, when as Authority cannot chooſe but take it well at the propounders hands, who ſhall have opened unto them the means whereby they may do good; nor can it be imagined that a good meaning in that kinde is like to be miſtaken.</p>
+               <p>In regard whereof, it ſeems ſeaſonable at preſent to call upon experience for to tender its opinion on ſuch things as may be effected on this particular; they being no other ſave ſuch as are grounded on the unqueſtionable ordinances of God, and on the ma<g ref="char:EOLhyphen"/>ximes of all good men: the former whereof, having been manifeſted unto all Nations that are acquainted with Gods Word, cannot be gainſaid, ſo likewiſe can<g ref="char:EOLhyphen"/>not thoſe plauſible maximes of godly men (who have had a regard unto the Divinc ordinances) be reject<g ref="char:EOLhyphen"/>ed, although they are practiſed by any Nation what<g ref="char:EOLhyphen"/>ſoever,
+<pb n="3" facs="tcp:117341:3"/>
+or of any profeſsion ſoever in Religion; for that a good thing which is done, cannot be termed other wayes, but what it is, although it be wrought by a bad inſtrument: And therefore it is the part of ex<g ref="char:EOLhyphen"/>perience, freely to tender whatſoever is and hath been practiſed by others to a good end.</p>
+            </sp>
+            <sp>
+               <speaker>Experience.</speaker>
+               <p>Since every thing doth naturally affect its encreaſe and preſervation; That the moſt rave<g ref="char:EOLhyphen"/>nous Vultures and fierceſt Tygers, have a love and charitable ſenſe towards thoſe of their own kinde: How much the more ought men, of what birth, con<g ref="char:EOLhyphen"/>dition, or profeſsion ſoever to have a charitable ſenſe for each other; and therefore no diſtinction in the Tenents of Religion can be a bar for good examples, which are not prohibited, neither by the laws of God nor man; although they might happily be grounded on the practiſe of any who ſhould differ in a profeſsi<g ref="char:EOLhyphen"/>on of Religion. And therefore, it cannot be imper<g ref="char:EOLhyphen"/>tinent to mention ſuch, as are in uſe even among the Papiſts our Adverſaries. Let us therefore but reflect on thoſe courſes which they took, when as by the de<g ref="char:EOLhyphen"/>ſtructive fury of war, ſeverall parts of their Territo<g ref="char:EOLhyphen"/>ries were laid waſte, their Cities burnt to aſhes, their Shires, Towns, Market-Towns, Boroughs, and Hamblets, ſo deſtroyed and overgrown with Traſh; as that all the ſurface of thoſe parts ſeemed to be a Wilderneſſe; and that the poor were enforced to be<g ref="char:EOLhyphen"/>take themſelves to Caves and hollow Trees for ſhel<g ref="char:EOLhyphen"/>ter, there to become fellow inhabitants with Frogs, Toades, and other loathſome reptileſſe: Why, even as then? Yea, although they were deeply en<g ref="char:EOLhyphen"/>gaged in war, ſome zealous men of thoſe times re<g ref="char:EOLhyphen"/>ſolved to raiſe a ſtock of monyes, not for to diſburſe
+<pb n="4" facs="tcp:117341:4"/>
+it at a clap on the poor and neceſsitous; for that they would ſoon have made an end of their ſeverall alot<g ref="char:EOLhyphen"/>ments; but to imploy that ſtock in ſuch an eſtabliſh<g ref="char:EOLhyphen"/>ment as might ſerve to ſupply the poore for ever: and the which might be even as a Source and Spring, which produceth a continuall torrent of water, and the which makes that Mill go, whereby the Publicks corn is grownd, and whereby all ſuch as will beſtir themſelves may be imployed, according to the Dutch ſaying, viz <hi>Help your ſelf, God will help you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. w.</speaker>
+               <p>I, but can it be ſuppoſed that this being pra<g ref="char:EOLhyphen"/>ctiſed here in <hi>England,</hi> in a time of war may have the ſame effects which you ſeem to hint at?</p>
+            </sp>
+            <sp>
+               <speaker>Exp.</speaker>
+               <p>Why not I pray you? ſince the ſame is ex<g ref="char:EOLhyphen"/>tant in divers well governed Common-wealths and States, as in <hi>Italy, Loraine,</hi> the Land of <hi>Liege, Brabant, Flanders, Artois, Heynault,</hi> and chiefly and moſt com<g ref="char:EOLhyphen"/>pleatly throughout all the juriſdictions of the States Generals United Provinces.</p>
+            </sp>
+            <sp>
+               <speaker>M. w.</speaker>
+               <p>Thoſe I hope are not Papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <p>The latter indeed are not; and yet if any Na<g ref="char:EOLhyphen"/>tion under the Sunne be found to practiſe more cha<g ref="char:EOLhyphen"/>rity then the former (although perhaps it be in a way about) then am I as yet far to ſeek in that quality which is ſuppoſed by my Title, viz. <hi>Experience.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. w.</speaker>
+               <p>But if the Papiſts did rely as much on Faith as the Reformed Profeſſors of the Goſpel (according to our Engliſh Tenents) doe; or that the Reformed profeſſors did ſo much practice Charity as the Papiſts doe? why as then, both of them would doubtleſſe run either to <hi>Pauls</hi> here in <hi>London,</hi> or to <hi>Peters</hi> in the <hi>Vatican?</hi> At <hi>Rome</hi> were both of thoſe Churches ca<g ref="char:EOLhyphen"/>pable to contain them all; but to the point:</p>
+            </sp>
+            <sp>
+               <speaker>Exp.</speaker>
+               <p>Go
+<pb n="5" facs="tcp:117341:4"/>
+too then: A Neopolitan Cardinal named <hi>Aquaviva,</hi> (in Engliſh, living water) at ſuch time as thoſe Cardi<g ref="char:EOLhyphen"/>nals (according to the Etimologie of the word) made good their profeſsion, which was to be a Deacon; and who in time of perſecution had a care to provide for the poore among the children of God: the ſaid <hi>A<g ref="char:EOLhyphen"/>qua-viva,</hi> did therefore iſſue forth his charitable ſpring at one guſh, no leſſe then fifty thouſand crowns towards the laying of a fundamentall ſtock, for the relief of the poor, which according unto the value of our Engliſh money may be accounted to be fifteen thouſand pounds ſterling; wherein the ſaid Cardinal was ſeconded by many other charitable men; and alſo by a Pope, who took upon himſelf the title of <hi>Pious.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mean-w.</speaker>
+               <p>Truly this Nation cannot be taxed of backwardnes in good examples of charitableneſſe; as for inſtance, the ſeveral ſpatious Hoſpitals, Almes<g ref="char:EOLhyphen"/>houſes and ſuch buildings, with the vaſte reveneues which were thereunto appropriated.</p>
+            </sp>
+            <sp>
+               <speaker>Exp.</speaker>
+               <p>But by your leave, I ſhall explain my ſelf in a larger extent, then the providing for the lame, the ſick, or the old decrepit perſons may amount unto; For that charity cannot be confined within the wals of Hoſpitals or Alms-houſes, nor under the gowns of a ſmall number of old men or women. That which at preſent is requiſite, reflects on a more general good; for as it muſt extend it ſelf to the relief of the very pooreſt ſort of people, ſo muſt it be favourable and beneficial to all neceſsitous perſons whatſoever; as alſo in the behalf of ſuch as endeavour the encreaſe of Traffique, as well as thoſe who minde the extirpa<g ref="char:EOLhyphen"/>tion of intolerable Uſury, and the annihilation of the pernitious cuſtome of forfeitures.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:117341:5"/>
+               <speaker>M. w.</speaker>
+               <p>It were to be wiſht, that in the firſt place, we had ſuch a ſpring amongſt us here, as it might guſh forth ſuch a charitable proportion towards a like ſet<g ref="char:EOLhyphen"/>tlement, for the relief of the poore, as might prove a Load-ſtone to attract unto it all the Iron hearts of this obdurated Age; that it might be ſeconded by pious men in effect, and not in name; that ſo by our profeſ<g ref="char:EOLhyphen"/>ſing of the Tenents, which are the moſt anſwerableſt to the Word of the true and living God, we might by unqueſtionable charitable actions (though not meri<g ref="char:EOLhyphen"/>toriouſly foreſtalled nor boaſted off) make good the Scripture phraſe, viz. <hi>Let your light ſo ſhine before men, that they ſeeing your good works, may glorifie your father which is in Heaven.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Exp.</speaker>
+               <p>As I before told you of the Cardinals and Popes <hi>gratis</hi> Contribution, to ſo good and pious a work: In the like manner, the ſaid Princes, States and Magiſtrates did in their reſpective Dominions lay the foundations of ſuch like eſtabliſhments; the which being moſt apparent and known, we ſhall not need to exemplifie in: Onely, we cannot omit to mark how that <hi>Albert</hi> of <hi>Auſtria</hi> Arch-duke of <hi>Brabant,</hi> and of the reſt of thoſe Provinces, together with the Arch<g ref="char:EOLhyphen"/>dutcheſſe <hi>Iſabel</hi> his Eſpouſe, did iſſue forth of their own coffers a ſtock of ten thouſand pounds, towards the relieving of the poor in the aboveſaid manner; at whoſe example alſo, the Arch-Biſhop of <hi>Machlen,</hi> and the Chancellor of <hi>Brabant</hi> contributed each of them five thouſand pounds thereunto; beſides the Legacies of ſeverall pious perſons in the ſaid Pro<g ref="char:EOLhyphen"/>vinces. The like were alſo practiſed and ſettled (as we have already ſaid) in the Land of <hi>Leige,</hi> in <hi>Loraine;</hi> and finally in the United Provinces under the States
+<pb n="7" facs="tcp:117341:5"/>
+Generals juriſdictions: unto which ſtocks of money were thus <hi>gratis,</hi> beſtowed towards the foundation, of a relief for the Poor, and ſuch ſummes of money were thereunto added, as could be taken up at Uſe or eaſie rates. And whereby, in the firſt place, the poorer ſort were relieved. Secondly, other neceſſi<g ref="char:EOLhyphen"/>tous perſons were ſupplied. Thirdly, New-begin<g ref="char:EOLhyphen"/>ners were ſettled in their ſeveral Trades and Profeſ<g ref="char:EOLhyphen"/>ſions. Fourthly, Merchants were ſuccoured in their diſtreſſes. Finally, Husband-men and Sea-men, were alſo included in the benefits and advantages, which doe acrew by ſuch an eſtabliſhment. Moreover, let all the world judge how eaſie a thing it would be here in <hi>England</hi> to attain unto ſo conſiderable a ſtock of monyes, whereby ſo good and pious a work may be propagated. For that queſtionleſſe, thoſe who pro<g ref="char:EOLhyphen"/>feſſe to open the Word of God, unto their brethren, would in the firſt place, not willingly be out-vied by the Papiſts Prieſts, who doe cloſely attend all ſuch as depart this life; and even then admoniſh them to leave ſome part of their ſubſtance, towards the found<g ref="char:EOLhyphen"/>ing of the ſaid eſtabliſhment; when as many of them reflecting on their Popes recommendations in their Buls, unto their Biſhops, to pronounce Bleſsings on all ſuch as doe contribute to ſo great and general a good; do not make any difficulty at all to diſpoſe of a conſi<g ref="char:EOLhyphen"/>derable proportion of their perſonall eſtates towards the ſame; to the end, that although death bereaves them of their perſonal doing of good amongſt men; yet their good works may follow them, even after their departures.</p>
+            </sp>
+            <sp>
+               <speaker>M. w.</speaker>
+               <p>And do you not think that it would be a ſhame for us, who take upon our ſelves to be Chri<g ref="char:EOLhyphen"/>ſtians? Nay, who account our ſelves to be the true
+<pb n="8" facs="tcp:117341:6"/>
+ſelect Chrildren of God; more particularly enlight<g ref="char:EOLhyphen"/>ned by his moſt holy and bleſſed Spirit, reformed ac<g ref="char:EOLhyphen"/>cording to the purity of his word, to be thus excee<g ref="char:EOLhyphen"/>ded by the Papiſts. Nay, is it not a diſgrace for us to ſeem (with a cold and ſeared up Conſcience) to af<g ref="char:EOLhyphen"/>fect to have the poor alwayes amongſt us, and to ſuf<g ref="char:EOLhyphen"/>fer them to be in a ſtarving condition? But it is not your opinion, that the Supream Authority ſhould be humbly ſought unto, to command all ſuch as profeſs the opening of the Word of God, to make it a part of their Duty, to endeavour to move their auditors, at ſeaſonable times, to reſolve on the ſetting a part of ſome proportion of their perſonal eſtates towards the ſame?</p>
+            </sp>
+            <sp>
+               <speaker>Exp.</speaker>
+               <p>Why? doubtleſſe this would be a good way to compaſs the ſame: ſo likewiſe might the Supream Authority be pleaſed to order, that thoſe ſaid godly Miniſters might admoniſh all ſuch perſons, as attain unto eſtates, to beſtow voluntary gifts towards the ſaid eſtabliſhment, and to have a Box prepared for the ſame. <hi>Item,</hi> That there might be a Collection twice a year throughout all Churches of the Land, to the encreaſing of ſuch a ſtock<g ref="char:punc">▪</g> 
+                  <hi>Item,</hi> That all ſuch as take Degrees in the Univerſities, and on whom Offices are beſtowed in the ſame, ſhould contribute towards the ſaid eſtabliſhment; as well as ſuch on whom Benefices are inſtated. Moreover, the Supream Authority might be ſought unto, to the end that the Lord Major of <hi>London,</hi> and the ſeverall Major of the reſpective Towns in <hi>England,</hi> might impoſe on all ſuch as receive Offices under them; eſpecially, ſuch as receive the ſaid Offices <hi>gratis,</hi> (when as formerly they were bought) the beſtowing of a gift towards the ſaid E<g ref="char:EOLhyphen"/>ſtabliſhment. <hi>Item,</hi> That the Sheriffs and Aldermen
+<pb n="9" facs="tcp:117341:6"/>
+might do the like with all their ſubaltern Officers. <hi>Item</hi> That all the ſeverall Offices of the Cuſtoms, Exciſes, Impoſitions, as well as the Poſtmaſters, Clarks of the reſpective Committees, and the like, might doe the ſame. <hi>Item,</hi> That the ſame method might be obſerved in the four Inns of Court; and that all ſuch as enter themſelves in the ſaid Societies, might be obliged to contribute to the Box, for the ſaid eſtabliſhment. <hi>Item,</hi> That all Judges, Councellours, Lawyers, Atturneys, Soli<g ref="char:EOLhyphen"/>citors, and the like, who are admitted and depend of any Court of Judicature, may doe the like at their reſpective ad<g ref="char:EOLhyphen"/>mittances: As alſo that all parties, who gain their Cauſes, may contribute to the ſaid Box. <hi>Item,</hi> That all Officers of the Army, at the receiving of their Commiſſions, may doe the like. <hi>Item,</hi> That every Merchants ſhip, that comes home ſafe and richly loaden, ſhould likewiſe contribute to the ſaid eſtabliſhment. <hi>Item,</hi> That all Inn-keepers, Taverns, Victual<g ref="char:EOLhyphen"/>ing-houſes and Ale-houſe-keepers doe the like, at the ſame time when as they receive their Licences from their reſpective Juſtices of Peace; or at their change of habitations, or ſignes. <hi>Item,</hi> That all thoſe who cauſe rich gilt Coaches to be made, ſhould not have them from the Coach-makers, unleſſe they contribute to the ſaid Box. <hi>Item,</hi> That all thoſe who keep a Kennell of Hounds (on the which they ſpend onely for their ſports ſake, more then would maintain many Chriſtian fa<g ref="char:EOLhyphen"/>milies) ſhould doe the like. <hi>Item,</hi> That ſuch Merchants as keep Country-houſes, for their pleaſure, and Barks on the River for their recreation, ſhould do the ſame. <hi>Item,</hi> That all thoſe who purchace Lands, Houſes, (eſpecially Merchants and ſtrangers, under what diſguiſed name ſoever) ſhould contribute towards the ſaid eſtabliſhment. <hi>Item,</hi> That all ſuch Heirs of perſons of means deceaſed, who enter them with pompe and herſes, ſhould contribute to the ſaid Box. All which being (as its conceived) very reaſonable, and poſ<g ref="char:EOLhyphen"/>ſible to be put in practice, by the Authorities approbation: It cannot chooſe but produce a very conſiderable ſtock of money: beſides, the particular contributions of all ſuch perſons, as are to be employed in the quality of Officers, in
+<pb n="10" facs="tcp:117341:7"/>
+the ſaid Eſtabliſhment, which may be erected in the ſeverall Cities, Towns, and Market-Towns of this Land, in the ſame manner as they are in other parts; and whereby the publique may be informed at large, whenſoever the Lord ſhall be plea<g ref="char:EOLhyphen"/>ſed to move the hearts of men, to deſire that this ſaid pub<g ref="char:EOLhyphen"/>lique good may take effect; and that they ſhall petition Au<g ref="char:EOLhyphen"/>thority thereon. Moreover, ſuch Officers as are to attend the ſaid Eſtabliſhment, will finde themſelves in a very eaſie thiving way, and ſafe condition, drawing on themſelves the bleſſing of the Almighty, and of all good men: When as the pooreſt and moſt incapableſt of doing any work ſhall be relieved; So likewiſe all ſuch as will endeavour any thing, which depends of a Vocation and Calling, may by ſome means be enabled and improved; Beſides, all new-beginners of trades, may be ſtrengthened therein, by the ſaid Eſtabliſhment: All Mer<g ref="char:EOLhyphen"/>chants relieved in their urgent occaſions, when as for the want of ſuch a help, many are conſtrained to break, al<g ref="char:EOLhyphen"/>though ſome of them have their Ware-houſes full of Mer<g ref="char:EOLhyphen"/>chandiſes. In the like manner, the Husband-men and Sea<g ref="char:EOLhyphen"/>men, (as aforeſaid) may by the ſame be provided for in due time; the former, by being enabled to keep their Ploughs a going, and to put off their Grains, Fruits and Cattell, at due ſeaſons, and at the beſt rates; So alſo the Sea-men, may be en<g ref="char:EOLhyphen"/>abled to take the opportunity of fair winds, by being aſſured of full fraughts and quick returns. And as the ſaid Eſtabliſh<g ref="char:EOLhyphen"/>ment proves to be thus beneficial in all places whereſoever it hath been, and is erected; ſo likewiſe doth it prove to be the extirpation of all Jewiſh practiſes and intollerable Uſury, the Cankers of all Common-wealths; in the ſame manner doth it abrogate the pernitious cuſtom of Forfeitures of Lands, Houſes and Goods.</p>
+            </sp>
+            <sp>
+               <speaker>M. w.</speaker>
+               <p>Why as then, let all godly people contribute to ſo good and neceſ<g ref="char:EOLhyphen"/>ſary an intent: Let all poore and neceſſitous people unanimouſly Petition the Lord of Mercy and of Compaſſion, to grant unto the Supream Authority of this Nation, a ſeaſonable convenience to pitch upon the ordering of ſuch an Eſtabliſhment<g ref="char:punc">▪</g> to the end<g ref="char:punc">▪</g> that the poor, the deſolate, the fatherleſſe, and the ſtranger may bleſſe the Lord, and acknowledge the Parliaments commiſeration of them; and that they may not neglect thoſe means which the Almighty hath ordained for their ſubſiſtances, nor ſeem to miſtruſt Providence by their not applying themſelves unto that Authority, which can and will relieve them.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
